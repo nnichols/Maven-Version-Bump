@@ -70,6 +70,6 @@ becomes
 
 ## Licensing
 
-Copyright © 2020 [Nick A Nichols](https://nnichols.github.io/)
+Copyright © 2020-2021 [Nick A Nichols](https://nnichols.github.io/)
 
 Distributed under the [MIT License](https://opensource.org/licenses/MIT)
